@@ -1,3 +1,5 @@
+_This repo was forked for archival purposes by the [Public Environmental Data Partners](https://screening-tools.com/)._
+
 # Git Repository for Identifying Chemical Signatures of Household Products Using Suspect Screening Analysis
 
 This repo provides the data, code (functions and a vignette), results, and figures that were a product of a research project conducted on household consumer product samples from 5 different product categories (cotton clothing, fabric upholstery, shampoo, baby soap, and silicone kitchen utensils).  The project was carried out by Dr. Zach Stanfield while working as a postdoctoral researcher at the U.S. EPA.  **_The views expressed in this repository are those of the author and do not necessarily represent the views or policies of the U.S. EPA.  Mention of trade names or commercial products do not constitute endorsement or recommendation for use._**
